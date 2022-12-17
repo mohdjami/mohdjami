@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jami.</h1>
-<h3 align="center">Backend Developer.</h3>
+<h3 align="center">Beginner Software Developer.</h3>
 
-![](https://komarev.com/ghpvc/?username=mustafahasankhan)
+![](https://komarev.com/ghpvc/?username=mohdjami)
 
 - 🌱 I’m currently learning **Web Development**
 
