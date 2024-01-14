@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFE873)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
