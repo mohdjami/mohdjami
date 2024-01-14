@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jami.</h1>
-<h3 align="center">Beginner Software Developer.</h3>
+<h3 align="center">Backend Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=mohdjami)
 
@@ -24,10 +24,17 @@
 
 </p>
 
+
+## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" height="40px" width="40px" /> Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdjami&show_icons=true" />
+
+
 <h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFE873)&nbsp;
+![Golang](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFE873)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
