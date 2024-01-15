@@ -20,6 +20,7 @@
 👇 just hit
 
 ```bash
+npm i jamii
 npx jamii
 ```
 
