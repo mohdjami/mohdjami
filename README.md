@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **I only code or game, with memes in between them.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <code><a href="https://mohdjami.vercel.app/" title="Jami's Portfolio"><img width="40" alt="Jami's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a></code>
 <code>
     <a href="https://www.linkedin.com/in/mohdjami/" title="Jami's linkedin"><img width="40" alt="Jami's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a></code>
