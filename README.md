@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [mohdjami.vercel.app](https://mohdjami.vercel.app)
+- 👨‍💻 All of my projects are available at [mohdjami.me](https://mohdjami.me)
 
 - 💬 Ask me about **Gym.**
 
