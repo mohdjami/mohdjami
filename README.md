@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mohdjami)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working as Backend Intern at **Koinx**
 
-- 👨‍💻 All of my projects are available at [mohdjami.me](https://mohdjami.me)
+- 👨‍💻 All of my projects are available at [mohdjami.me](https://mohdjami.me/projects)
 
 - 💬 Ask me about **Gym.**
 
@@ -20,10 +20,8 @@
 👇 just hit
 
 ```bash
-npm i jamii
 npx jamii
 ```
-
 And get to know me in unique style.
 
 <hr/>
