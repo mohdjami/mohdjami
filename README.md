@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohdjamikhann@gmail.com**
 
-- 📄 Know about my experiences [mohdjami.me/resume.pdf](https://mjkm.vercel.ap/up/iqcsdc)
+- 📄 Know about my experiences [mohdjami.me/resume.pdf](https://drive.google.com/file/d/1J7ocoRMMLWwhoEpSaOBIG7wNpXeKKKgI/view)
 
 - ⚡ Fun fact **I only code or game, with memes in between them.**
 
