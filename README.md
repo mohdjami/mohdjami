@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [mohdjami.me/resume.pdf](https://drive.google.com/file/d/1V46JIGRiwSfWxw4azaOkrzACrFIE661y/view?usp=sharing)
 
-- ⚡ Fun fact **I only pcode or game, with memes in between them.**
+- ⚡ Fun fact **I only code or game, with memes in between them.**
 
 <h3>Connect with me:</h3>
 
