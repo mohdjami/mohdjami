@@ -38,7 +38,7 @@ And get to know me in unique style.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdjami&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" />
 
 ![Jami's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdjami&show_icons=true&hide_border=True)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjami&layout=compact&hide_border=True&langs_count=10)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjami&layout=compact&hide_border=True&langs_count=10)]()\
 PS: Top Languages are metric of language that my public code contains; it doesn't reflect my experience or skill level.\
 [![Jami's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohdjami&custom_title=Jami's%20contribution%20graph&hide_border=true)]()
 
