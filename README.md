@@ -3,17 +3,19 @@
 
 ![](https://komarev.com/ghpvc/?username=mohdjami)
 
- - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**, focusing on backend development and **multi-agent AI RAG systems**
+ - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**, focusing on backend development and **Multi-Agent AI RAG systems**
    
  - 👨‍💻 All of my projects are available at[ mohdjami.me ](https://mohdjami.me/projects)
    
- - 💬 Ask me about Gym.
+ - 💬 Ask me about **Gym**.
    
  - 📫 How to reach me mohdjamikhann@gmail.com
    
  - 📄 Know about my experiences [mohdjami.me/resume.pdf](https://drive.google.com/file/d/1V46JIGRiwSfWxw4azaOkrzACrFIE661y/view?usp=sharing)
    
- - ⚡ Fun fact I only code or game, with memes in between them.<h3>Connect with me:</h3>
+ - ⚡ Fun fact I only **code or game, with memes** in between them.
+
+<h3>Connect with me:</h3>
 
 👇 just hit
 
