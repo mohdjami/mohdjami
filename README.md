@@ -5,7 +5,7 @@
 
  - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**.
  
- - ⌨️ Focusing on backend development and **Multi-Agent AI RAG systems**
+ - ⌨️ Focusing on backend development and **AI RAG Development**
    
  - 👨‍💻 All of my projects are available at[ mohdjami.me ](https://mohdjami.me/projects)
    
