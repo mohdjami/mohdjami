@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mohdjami)
 
- - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**, focusing on backend development and **Multi-Agent AI RAG systems**
+ - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**.
+ 
+ - Focusing on backend development and **Multi-Agent AI RAG systems**
    
  - 👨‍💻 All of my projects are available at[ mohdjami.me ](https://mohdjami.me/projects)
    
