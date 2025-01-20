@@ -6,11 +6,17 @@
 </p>
 
 - 🚀 I'm currently working as Backend Engineer Intern at **Koinx**
+
 - ⌨️ Focusing on backend development and **AI RAG Development**
+  
 - 👨‍💻 All of my projects are available at [mohdjami.me](https://mohdjami.me/projects)
+  
 - 💬 Ask me about **Gym**
+  
 - 📫 How to reach me: mohdjamikhann@gmail.com
+  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V46JIGRiwSfWxw4azaOkrzACrFIE661y/view?usp=sharing)
+
 - ⚡ Fun fact: I only **code or game, with memes** in between them
 
 ### Connect with me:
