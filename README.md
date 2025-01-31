@@ -42,17 +42,11 @@ And get to know me in unique style.
 
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" height="40px" width="40px" /> Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdjami&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdjami&show_icons=true&locale=en&layout=compact" alt="mohdjami" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdjami&show_icons=true&theme=dark" alt="Jami's GitHub stats"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdjami&show_icons=true&locale=en" alt="mohdjami" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjami&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdjami&" alt="mohdjami" /></p>
 
 ### Languages and Tools:
 
