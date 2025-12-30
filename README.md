@@ -14,7 +14,7 @@
   
 - 📫 How to reach me: mohdjamikhann@gmail.com
   
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qLFFCdUBsYw8X2QSsivjECMiEFG7l8YA/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1aeU9oGIX3D0M196Tantdmq8rZx60vrlf/view?usp=sharing)
 
 - ⚡ Fun fact: I only **code or game, with memes** in between them
 
